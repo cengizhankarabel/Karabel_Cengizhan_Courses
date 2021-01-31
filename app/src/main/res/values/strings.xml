@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Karabel_Cengizhan_Courses</string>
+    <string name="create">Create</string>
+
+    <string name="course_code">Course Code:</string>
+    <string name="enter_course_code">Enter course code</string>
+
+    <string name="course_name">Course Name:</string>
+    <string name="enter_course_name">Enter course name</string>
+
+    <string name="course_grade">Course Grade:</string>
+    <string name="enter_course_grade">Enter course grade</string>
+
+    <string name="course_credit">Course Credit:</string>
+    <string name="enter_course_credit">Enter course credit</string>
+
+    <string name="is_passed">Is Passed</string>
+
+    <string name="edit_course">Edit Course</string>
+
+
+    <string name="add_new_course">Add New Course</string>
+
+
+
+
+</resources>

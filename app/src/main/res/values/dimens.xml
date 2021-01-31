@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleSize">18sp</dimen>
+    <dimen name="marginLeft">15dp</dimen> //item list
+    <dimen name="margin">25dp</dimen>
+    <dimen name="padding">18dp</dimen>
+
+    <dimen name="card_corner_radius">30dp</dimen>
+    <dimen name="card_margin">12dp</dimen>
+    <dimen name="card_padding">10dp</dimen>
+</resources>
